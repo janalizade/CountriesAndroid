@@ -1,1 +1,3 @@
-"# CountriesAndroid" 
+"# Simple application  with complex context behind this , I enable nice functionality such as unit testing , I used Retrofit and Json to communicate with the backend to get the List of Countries.I also used RXJAva inorder to make a nice sepration between Retrofit and Model and other side of application and the business logic.I also used dependency Injection to further sepration between business logic and other objects that i am using . I also make a unit testing to make sure that may application works nicely  " 
+
+![image](https://user-images.githubusercontent.com/73483327/111445791-077e3100-870c-11eb-965c-b5c2ff24f565.png)
